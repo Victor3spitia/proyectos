@@ -19,5 +19,8 @@
     "stylelint-scss": "^3.21.0",
     "webpack": "^5.98.0",
     "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "survey-form-sena-azure-main": "file:"
   }
 }
