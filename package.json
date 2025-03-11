@@ -21,6 +21,7 @@
     "webpack-cli": "^6.0.1"
   },
   "dependencies": {
+    "express": "^4.21.2",
     "survey-form-sena-azure-main": "file:"
   }
 }
