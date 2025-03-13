@@ -13,24 +13,23 @@
 
 # 📗 Tabla de Contenido
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
+- [📖 Sobre el proyecto](#about-project)
+  - [🛠 Construir con](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
+- [💻 Como empezar](#getting-started)
   - [Setup](#setup)
-  - [Prerequisites](#prerequisites)
-  - [Install](#install)
-  - [Usage](#usage)
-  - [Run tests](#run-tests)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
-- [📝 License](#license)
+  - [Prerequisitos](#prerequisites)
+  - [Installar](#install)
+  - [Usos](#usage)
+  - [Realizar un test](#run-tests)
+- [👥 Autores](#authors)
+- [🔭 Futuras Funciones](#future-features)
+- [🤝 Contribuidores](#contributing)
+- [⭐️ Apoya nuesto proyecto](#support)
+- [🙏 Agradecimientos](#acknowledgements)
+- [📝 Licencias](#license)
 
 <!-- Descripcion de proyecto -->
 
@@ -168,7 +167,7 @@ para correr un archivo local realiza el siguiente comando:
     npm run build-prod
     npm run server-prod
 ```
-### Run tests
+### Realizar un test
 
 para realizar un test, realiza el siguiente comando:
 
@@ -199,53 +198,47 @@ Victor Espitia
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FUTURE FEATURES -->
+<!-- Futuras Funciones -->
 
-## 🔭 Future Features <a name="future-features"></a>
+## 🔭 Futuras Funciones <a name="future-features"></a>
 
 
-- [ ] **[Personalized Recommendations]**
-- [ ] **[Advanced Search Filters]**
-- [ ] **[Notifications and Reminders]**
+- [ ] **[Recomendaciones Personalizadas]**
+- [ ] **[Busqueda avanzada y Filtros]**
+- [ ] **[Notificaciones y Recordatorios]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+<!-- CONtribuidores -->
 
 ## 🤝 Contribuidores <a name="contributing"></a>
 
-Contributions, issues, and feature requests are welcome!
+contribuciones, problemas y solicitudes de funciones son bienvenidas!
 
-Feel free to check the [issues page](https://github.com/alyconr/TV-AMAZE-APP.git/issues).
+Sientase libre de revisar: [pagina de problemas](https://github.com/alyconr/TV-AMAZE-APP.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+<!-- Soporte -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Apoya nuestro proyecto <a name="support"></a>
 
-> Write a message to encourage readers to support your project
+> Escribe un mensaje para animar a los lectores a apoyar tu proyecto
 
-If you like this project please give  one start.
+Si te gusta este proyecto, por favor, da un comienzo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Agradecimientos <a name="acknowledgements"></a>
 
-I would like to thank  God for giving me the strength to carry out this project.
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FAQ (optional) -->
-
-
-
+Quiero agradecer a Dios por darme la oportunidad de realizar este proyecto.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 Licencia <a name="license"></a>
 
 This project is [MIT](LICENSE.md) licensed.
 
