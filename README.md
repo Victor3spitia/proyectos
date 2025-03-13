@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./src/assets/images/LOGOv2.png" alt="logo" width="250" height="250" />
+<img src="./assets/logo.png" alt="logo" width="250" height="250" />
   <br/>
 
   <h3><b>FORM AZURE APP</b></h3>
