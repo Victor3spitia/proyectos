@@ -33,9 +33,9 @@
 
 <!-- Descripcion de proyecto -->
 
-# 📖 [TV AMAZE APP ] <a name="about-project"></a>
+# 📖 [FORM AZURE APP ] <a name="about-project"></a>
 
-**[TV Amaze App]**  El sena form azure, es un proyecto destinado para practicar y orientar a los nuevos estudiantes del sena, con manejo de distintos metodos de trabajo: como webpack, linters, babel. Para facilitar el trabajo y manejar buenas practicas de codigo, el proyecto fue construido con javascript, html, y css.
+**[Form Azure App]**  El sena form azure, es un proyecto destinado para practicar y orientar a los nuevos estudiantes del sena, con manejo de distintos metodos de trabajo: como webpack, linters, babel. Para facilitar el trabajo y manejar buenas practicas de codigo, el proyecto fue construido con javascript, html, y css.
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -55,11 +55,10 @@
 
 - **[HTML & CSS Best practices]**
 - **[Responsive Design]**
-- **[USER RESERVATIONS]**
 - **[Webpack Bundling ]**
 - **[Express Server to handle routing]**
 - **[Bash Script to automate deployment]**
-- **[CI and CD Deployment with Netlify]**
+- **[CI and CD Deployment with GitHub]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,15 +156,11 @@ Concurrent, the npm package for running multiple commands in parallel
 
 para correr un archivo local realiza el siguiente comando:
 
-## Development mode
-```sh
-    npm run build-dev
-    npm run devserver-reload    
-```
+
 ## Production mode
 ```sh
-    npm run build-prod
-    npm run server-prod
+    npm run build
+    npm run start
 ```
 ### Realizar un test
 
